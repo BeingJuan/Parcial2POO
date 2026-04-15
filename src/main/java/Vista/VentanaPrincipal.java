@@ -484,7 +484,7 @@ controller.agregarEstudiante(
 );
 javax.swing.JOptionPane.showMessageDialog(this, "Estudiante agregado");
 
-txtNombreE.setText("");
+txtNombreE.setText(""); 
 txtDirE.setText("");
 txtTelE.setText("");
 txtFechaE.setText("");
